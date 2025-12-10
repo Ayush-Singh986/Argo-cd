@@ -1,7 +1,7 @@
 # Declarative Approach with ArgoCD (Online Shop Example)
 
 In this approach, we will deploy an application using the **Declarative GitOps method**.  
-We’ll use a custom **Online Shop app** (`amitabhdevops/online_shop:latest`) to demonstrate the true GitOps workflow.
+We’ll use a custom **Online Shop app** (`Ayush-Singh986/online_shop:latest`) to demonstrate the true GitOps workflow.
 
 ---
 
