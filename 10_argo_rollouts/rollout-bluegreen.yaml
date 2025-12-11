@@ -3,7 +3,7 @@ kind: Rollout                          # Resource type is Rollout
 metadata:
   name: nginx-bluegreen                # Name of the rollout resource
 spec:
-  replicas: 3                          # Number of desired pod replicas
+  replicas: 4                          # Number of desired pod replicas
   strategy:
     blueGreen:                         # Use blue-green deployment strategy
       activeService: nginx-active      # Service for active (live) pods
